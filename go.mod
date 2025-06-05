@@ -1,6 +1,6 @@
 module github.com/grandcat/zeroconf
 
-go 1.17
+go 1.22
 
 require (
 	github.com/cenkalti/backoff v2.2.1+incompatible
